@@ -19,3 +19,12 @@ Sistema desenvolvido em Java com o objetivo de auxiliar no controle de finanças
 - Java  
 - Programação Orientada a Objetos (POO)  
 - Maven  
+
+---
+
+## 📌 Conceitos aplicados
+- Encapsulamento  
+- Herança  
+- Tratamento de exceções (incluindo exceção personalizada)  
+- Manipulação de coleções (`ArrayList`)  
+- API de datas (`LocalDate`)
